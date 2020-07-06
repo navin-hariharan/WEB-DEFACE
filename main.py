@@ -11,7 +11,6 @@ echo '''
 """
 try:
    import requests, os.path, sys, os
-   from PIL import Image
    from termcolor import colored
 except ImportError:
    os.system("pip2 install requests && pip2 install termcolor")
