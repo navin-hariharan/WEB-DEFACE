@@ -9,8 +9,9 @@ echo '''
 \_| \_/\_| |_/\___/ \___/\_| \_/ Whatsapp  : +917305574234
 ''' | lolcat
 """
+import os
 try:
-   import requests, os.path, sys, os
+   import requests, os.path, sys
    from termcolor import colored
 except ImportError:
    os.system("pip2 install requests && pip2 install termcolor")
