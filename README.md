@@ -10,7 +10,7 @@ of sites in target.txt file.<br>
 
 **Termux:**
 
-* `pkg install python2``
+* `pkg install python2`
 
 * `pkg install git`
 
@@ -22,7 +22,7 @@ of sites in target.txt file.<br>
 
 **Linux:**
 
-* `pkg install python2``
+* `apt install python2`
 
 * `pkg install git`
 
