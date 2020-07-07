@@ -11,7 +11,7 @@ Run these commands to run WEB-DEFACE
 
 ### > For Termux:
 **Notice:**
-* `pkg install python2 pip2`
+* `pkg install python2 pip2`    **(IF YOU SKIP THIS IT WILL END UP IN A INFINITE LOOP)**
 
 * `pkg install git`
 
@@ -24,7 +24,7 @@ Run these commands to run WEB-DEFACE
 ### > For Linux:
 **Notice:**
 
-* `apt install python2 python-pip`(IF YOU SKIP THIS IT WILL END UP IN A INFINITE LOOP)
+* `apt install python2 python-pip`    **(IF YOU SKIP THIS IT WILL END UP IN A INFINITE LOOP)**
 
 * `pkg install git`
 
