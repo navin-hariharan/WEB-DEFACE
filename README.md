@@ -1,15 +1,14 @@
-# WEB-DEFACE
-
-**What is WEB-DEFACE tool?**<br>
-WEB-DEFACE is a tool for defacing sites at once,depending on the number
-of sites in target.txt file.<br>
+<h1 align="center">WEB-DEFACE</h1>
+<p align="center">WEB-DEFACE is a tool for Defacing Sites</p><br>
 
 ![logo](image.jpg)
 
-**how to install and usage:**
+## Usage:
 
-**Termux:**
+Run these commands to run WEB-DEFACE
 
+### > For Termux:
+**Notice:**
 * `pkg install python2`
 
 * `pkg install git`
@@ -20,7 +19,8 @@ of sites in target.txt file.<br>
 
 * `./start.sh`
 
-**Linux:**
+### > For Linux:
+**Notice:**
 
 * `apt install python2`
 
