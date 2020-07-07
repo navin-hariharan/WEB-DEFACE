@@ -24,7 +24,7 @@ Run these commands to run WEB-DEFACE
 ### > For Linux:
 **Notice:**
 
-* `apt install python2 python-pip`
+* `apt install python2 python-pip`(IF YOU SKIP THIS IT WILL END UP IN A INFINITE LOOP)
 
 * `pkg install git`
 
