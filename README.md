@@ -11,7 +11,7 @@ Run these commands to run WEB-DEFACE
 
 ### > For Termux:
 **Notice:**
-* `pkg install python2`
+* `pkg install python2 pip2`
 
 * `pkg install git`
 
@@ -24,7 +24,7 @@ Run these commands to run WEB-DEFACE
 ### > For Linux:
 **Notice:**
 
-* `apt install python2`
+* `apt install python2 python-pip`
 
 * `pkg install git`
 
