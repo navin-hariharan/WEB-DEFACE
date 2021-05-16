@@ -1,10 +1,6 @@
 <h1 align="center">WEB-DEFACE</h1>
 <p align="center">WEB-DEFACE is a tool for Defacing Sites</p><br>
 
-<p align="center">
-  <img width="100" height="100" src="https://static.wixstatic.com/media/d8f02f_83eb413acfbb4d3d9ec795aa4ef31409~mv2_d_4096_3932_s_4_2.png/v1/fill/w_78,h_75,al_c,q_85,usm_1.20_1.00_0.01/logo.webp"><br>
-</p>
-
 ## Usage:
 
 Run these commands to run WEB-DEFACE
