@@ -30,14 +30,17 @@ Run these commands to run WEB-DEFACE
 
 * `./start.sh`
 
+
+## Support Meee........
+
+<a href="https://www.buymeacoffee.com/navinhariharan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a> 
+
+
+
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: navin@cyberhakz.com
                  Instagram: @navin_hariharan
 ```
-
-**Instagram:-** <a href="https://www.instagram.com/navin_hariharan/">Check Out My Instagram Profile</a><br>
-**Linkedin:-** <a href="https://www.linkedin.com/in/navin-hariharan/">Check Out My Linkedin Profile</a>
